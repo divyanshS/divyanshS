@@ -19,6 +19,8 @@ My goal is to design and deliver great products with the best usability experien
 ![Visitor Count](https://profile-counter.glitch.me/divyanshS/count.svg)
 <hr/>
 
+<h2>:boom::boom::boom::boom::boom::boom::boom:</h2>
+
 **Currently, I am working with [SquadStack](https://www.squadstack.com/), and we are building [Auctm](https://www.auctm.com/) --Analytics Made Simple For Broker Teams. A tool helping team leaders, managers, coaches, and brokers improve conversions and drive accountability.**
 
 <b>PS: We are hiring for multiple roles in multiple departments.</b>
@@ -33,6 +35,7 @@ Product Roles:
 <li>Product Engineer-1 (FrontEnd) | <a href="https://squadstack.breezy.hr/6ee8" target="_blank">Apply Here:link:</a></li>
 </ul>
 </div>
+<h2>:boom::boom::boom::boom::boom::boom::boom:</h2>
 <hr/>
 
 <h4>Fun fact: We never stop clapping. Every clap is just a longer time till our next clap.:relieved:</h4>
