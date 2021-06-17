@@ -4,7 +4,7 @@
 [<img height="30" src="https://img.shields.io/badge/-divsharma.in-3B82F6?style=for-the-badge&logoColor=white" />][website]
 
 ### Hi there 👋👋
-**I am Divyansh Sharma**. by profession, I am software developer; a pragmatic programmer, specifically a product engineer. It's funny this title suits me best. I'm not only interested in developing or writing just code, rather I also like to design and architect the product.
+**I am Divyansh Sharma**. by profession, I am software developer; a pragmatic programmer, specifically working as a Tech Lead. I'm not only interested in developing or writing just code, rather I also like to design and architect the product.
 
 :100:*Something I really believe in is: "Softwares and Languages are just tools, the crux lies in the design and UX with the right empathy"*.:100:
 
