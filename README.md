@@ -14,15 +14,6 @@ I am an analytical thinker and I like to solve problems and design solutions. I 
 My goal is to design and deliver great products with the best usability experience.
 <hr/>
 
-*Profile views since UTC 1622056737012*:
-
-![Visitor Count](https://profile-counter.glitch.me/divyanshS/count.svg)
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=divyanshS&show_icons=true&theme=dark&count_private=true">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=divyanshS&theme=dark&hide_border=true&&count_private=true">
-</p>
-
 <h4>Fun fact: We never stop clapping. Every clap is just a longer time till our next clap.:relieved:</h4>
 
 [twitter]: https://twitter.com/divyansh_dss
