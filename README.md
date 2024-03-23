@@ -14,7 +14,7 @@ I am an analytical thinker and I like to solve problems and design solutions. I 
 My goal is to design and deliver great products with the best usability experience.
 <hr/>
 
-<h4>Fun fact: We never stop clapping. Every clap is just a longer time till our next clap.:relieved:</h4>
+<h4>Fun fact: We never stop clapping. Every clap is just a longer time till our next clap. :relieved: </h4>
 
 [twitter]: https://twitter.com/divyansh_dss
 [website]: https://divsharma.in
